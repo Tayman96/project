@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 import {
   Computer,
   Cpu,
-  Cpu,
   HardDrive,
   MemoryStick,
   MousePointerClick,
